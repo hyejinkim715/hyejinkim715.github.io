@@ -10,7 +10,7 @@ Feel free to get in touch!
 
 
 
-### Current institution: 
+### Current institutions: 
 
 Sustainable Landscape Development, Institute of Geosciences and Geography, Martin Luther University Halle-Wittenberg (MLU)
 Address.   Von-Seckendorff-Platz 4 06120 Halle (Salle), Germany
