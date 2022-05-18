@@ -1,7 +1,7 @@
 ## Contact information
 
 
-<img style="padding: 0 15px; float: right;" src="https://hyejinkim715.github.io/hyejinkim_profilepix.jpeg"  align="right" width="200">
+<img style="padding: 0 15px; float: right;" src="https://hyejinkim715.github.io/hyejinkim_profilepix.jpeg"  align="right" width="150">
 
 ### Email: 
 hyejin.kim [at] idiv.de
