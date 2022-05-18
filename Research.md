@@ -1,34 +1,19 @@
 ## Research interests
-My main motivation in doing research holds in the word "Conservation". I want my research to help, directly or indirectly, conserving species and nature. This applied will is combined with a strong appetence for large and global spatial scales. Indeed, I like to think about the global impact that humans have on biodiversity and about the solutions that we have in our hands to mitigate biodiversity loss at global scale. Studying conservation effectiveness and participating in the development of indexes to track biodiversity loss and conservation effects are thus central in my research interests. I also feel drawn to social sciences when they help understanding what makes conservation actions more effective and I hope to develop this in the future.
-
+I	 am	 a researcher	 and	 practitioner	 with keen	 interests	 in	 nature	 conservation,	 education and	 sustainable	
+development.	I	 have	diverse expertise in	policy	 research,	 scenarios	and models,	 data	 visualization,	information	
+communication	and	capacity	development at	multi-regional	scales.	I	have	an	interdisciplinary	training	background	
+in	 social	 sciences,	 international	 governance,	 and	 biodiversity	 conservation. I	 have research	 experience	 in	
+monitoring	the	implementation	of international	policies in	practice,	and promoting data-driven	policy	and	financial
+planning.	I	have	coordination	experience in	organizational	reform,	capacity	building,	stakeholder	engagement	and	
+institutional	 collaboration.	 I	 am	 passionate	 about	 fostering	 dialogue	 among scientists,	 policy	 makers and	 local	
+practitioners	through co-developing	conceptual	models	and implementation	plans for	research	coordination	and	
+decision support. I	really	enjoy	working	with	people	and	institutions. In	my	leisure,	I	travel with	my	dog	and	cat	
+exploring serene	nature	and	learning how	science,	technology and	policies have	shaped human	history and	culture.
 
 ## Research projects
-### IUCN Red List support
-The IUCN Red List of Threatened Species is absolutely central in biodiversity conservation, but limited resources constrain its growth, update and consistency. The objective of the working group my current post-doc fits in is to help develop modelling tools to support assessments and to provide them to Red List assessors through an online platform. This project started with a synthesis of existing studies and tools, developed in a perspective paper [(Cazalis et al. 2022, TREE)](https://www.sciencedirect.com/science/article/pii/S0169534721003372?dgcid=author), and I am now working on two analytic studies, one focusing on predicting data sufficient species, the other one trying to measure AOO and trends in AOO.
+Postdoc: Developing multidimensional index for biodiversity to support the design, implementation and evaluation of multi-scale policy frameworks – CBD Post-2020 Global Biodiversity Framework, EU Biodiversity Strategy, German Biodiversity Strategy – and their complementing policies in Saxony-Anhalt with government agencies and scientific communities. (project website: MDI4B)
 
-
-### Protected area effectiveness
-
-During my PhD I worked on evaluating the effectiveness of the main tool used in conservation and that is central in international conservation agreements such as the Convention on Biological Diversity: protected areas. The term "protected area effectiveness" in used in many ways as it incapsulates multiple complementary facets that together explains how protected areas enable the long term conservation of nature [(Rodrigues and Cazalis 2020, Nat.Comms)](https://www.nature.com/articles/s41467-020-18989-2). 
-
-The facet most of my PhD focused on is the local effectiveness of protected areas: do they make a difference locally for species. We showed that protected areas do not often affect the local richness of assemblages but that they favour more typical assemblages and thus mitigate biotic homogeneisation. This was the case in a study using a standard dataset (the North American Breeding Bird Survey; [Cazalis et al. 2021, Peer Community Journal](https://peercommunityjournal.org/articles/10.24072/pcjournal.5/)), as well as a study using eBird data from eight tropical forest biodiversity hotspots that showed that protected areas do not affect overall species richness but that they do favour forest-dependent species, endemic species, and threatened species by mitigating both forest loss and forest degradation [(Cazalis et al. 2020, Nat.Comms)](https://www.nature.com/articles/s41467-020-18230-0). Wondering if protected areas' effects vary with the context surrounding them, we show that urban protected areas in Latin America (e.g., National Park of Tijuca) keep an important diversity within their boundaries but that this diversity is reduced compared with non-urban protected areas (lower richness and abundance, lower proportion of forest-dependent species, of narrow-ranged species and of threatened species) except for exotic species that are more abundant in protected areas that are urban (**Cazalis et al. *In prep.***). In addition, I collaborated in a study showing that Ramsar (protected areas focusing on wetlands) across the Mediterranean host most waterbirds but have low impact on species trends suggesting a poor local effectiveness [(Gaget et al. 2020, Bio.Cons.)](https://www.sciencedirect.com/science/article/abs/pii/S0006320719315332?dgcid=author).
-
-In another project we explored the effectiveness of the current protected area network in the Americas at providing intact habitats to species that are the most sensitive to human pressure. We show that ecoregions with high proportion of high-sensitivity species (mainly in the Andes and Central America) are not more covered by intact protected areas and thus that many high-sensitivity species cannot be effectively conserved by protected areas as their distribution does not intersect (or negligibly) with intact protected areas [(Cazalis et al. 2021, Ecology Letters)](https://onlinelibrary.wiley.com/doi/10.1111/ele.13859).
-
-As a side project to my PhD, I led an interdisciplinary study in Conservation Psychology in which we show that in France, people living close to natural park tend to adopt more pro-environmental behaviours (i.e., voting for green parties, supporting conservation NGOs, participating in citizen science projects), suggesting that protected areas may play a role in conservng human connection with nature [(Cazalis and Prévot 2019, Bio.Cons.)](https://doi.org/10.1016/j.biocon.2019.03.012)
-
-Several of the above-mentioned facets of protected area effectiveness are part of the Aichi Target 11, related to protected areas, that almost all governments have promised to reach by 2020. In a review of the progress towards this target, we show that none of the subojectives of this target have been met and that governments have underinvested in protected areas in the last decade [(Maxwell et al. 2020, Nature)](https://www.nature.com/articles/s41586-020-2773-z) and we call for the formulation of outcome-based objectives for the post-2020 biodiversity framework.
-
-
-### Other projects
-In an ongoing project [(Cazalis 2022, PNAS)](https://www.pnas.org/doi/full/10.1073/pnas.2107361119), I investigate the exact effect of human footprint on overall species richness and on assemblage composition and suggest the existence of a two-phases relationship (first assemblage transformation resulting in a low increase species richness, followed by a decline in species richness when pressure becomes too important) and I suggest a unifying framework on the different trajectories of species richness response to human pressure.
-
-Following the article with on human pro-environmental behaviours, I led a review of our current knowledge in trends in human experience of nature, in order to understand how human connection with nature has evolved in the past decades and question the "extinction of experience" (**Cazalis et al. *Accepted in Frontiers in Ecology and the Environment***).
-
-During my Masters, I worked on a theoretical model exploring the balance between human demography, land-use and ecosystem services [(Cazalis et al. 2018, Sci.Tot.Env)](https://doi.org/10.1016/j.scitotenv.2018.03.360)
-
-I have been also involved, providing statistical support, in a review of the global tracking effort on seabirds, in which we identify species that have never or rarely been tracked and for which the knowledge, on migration and wintering behaviours, is lacking [(Bernard et al. 2021, Cons.Lett.)](https://conbio.onlinelibrary.wiley.com/doi/full/10.1111/conl.12804).
-
+PhD: Nature-centered, multi-scale, and cross-sectoral scenarios development for biodiversity conservation policies and practice through participatory stakeholder engagement and scientific community mobilization with the Intergovernmental Science-Policy Platform on Biodiversity and Ecosystem Services (IPBES)
 
 
 <img src="https://victorcazalis.github.io/Hirondelle rustique5 - Rouveyrac - 25-06-13.JPG"  align="center" width="700">
